@@ -11,26 +11,18 @@ gems: [jekyll-paginate]
 permalink:           pretty
 
 # Setup
-title:               Naringu
-tagline:             'A Hacker like jekyll theme'
-description:         'oonlab is crafted with <3 by ariestiyansyah.'
-url:                 http://naringu.oonlab.com
-baseurl:             /
-paginate:            7
+title:               sp0gg
+#tagline:             'A Hacker like jekyll theme'
+#description:         'oonlab is crafted with <3 by ariestiyansyah.'
+url:                 http://sp0gg.net/blog
+baseurl:             https://sp0gg.github.io/
+paginate:            10
 
 # About/contact
 author:
-  name:              Rizky Ariestiyansyah
-  url:               https://twitter.com/ariestiyansyah
-  email:             ariestiyansyah.rizky@gmail.com
-
-# Custom vars
-version:             2.0
-
-# Social Media
-github:				http://github.com/ariestiyansyah
-twitter:			http://twitter.com/ariestiyansyah
-disqus:             testnaringu
+  name:              Joe Nelson
+#  url:               https://twitter.com/ariestiyansyah
+  email:             blog@sp0gg.net
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
